@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hallo,wie gehts?',
+    introDesc: `Broooo, i guess
+    Maybe u don't know 
+    what i'm doing right now
+    Don't get out keep going`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    title: 'theme about remembering the past 😙',
+    desc: 'Do you remember what you forgot to do in the morning? ',
+    btnYes: 'Guten Morgen with your brooo <33',
+    btnNo: 'Nein,I do not remember anything :3',
+    question:'why did you forget?:(',
+    btnReply: 'send your answer <3',
+    reply: 'cause Im a goldfish brain girl:v',
+    mess: 'I know i know 😙. oke broo 😘😘',
+    messDesc: 'Try not to forget anymore^_^.',
+    btnAccept: 'Okeeee <3',
+    messLink: 'https://www.instagram.com/' //link mess của các bạn. VD: https://m.me/nam.nodemy}
